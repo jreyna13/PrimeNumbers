@@ -1,3 +1,5 @@
+//ok. O.Aktunc
+
 import java.util.Scanner;
 
 //Javier Reyna02/19/2015
